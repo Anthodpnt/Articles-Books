@@ -7,6 +7,9 @@ Feel free to fork it and complete this exhaustive list with your own sources.
 
 I wish you an interesting reading !
 
+## WebGL
+- [Into Vertex Shader - Szenia Zadvornykh](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
+
 ## License
 
 See the [LICENSE](https://github.com/Anthodpnt/Readings/blob/master/LICENSE.md) file for license rights and limitations (MIT).
