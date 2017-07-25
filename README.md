@@ -16,6 +16,8 @@ I wish you an interesting reading !
 
 ## WebGL
 - [Into Vertex Shaders - Szenia Zadvornykh](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
+- [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
+- [WebGL Fundamentals - Greggman](https://webglfundamentals.org/)
 
 ## Case Studies
 
