@@ -1,5 +1,5 @@
 ## Why... What ?!
-I like to share things with other developers from snippets of code and tutorials to advices...
+I like to share things with other developers from [snippets of code](https://gist.github.com/Anthodpnt) and [tutorials](https://codepen.io/web-adventurers/) to [advices](https://twitter.com/Anthodpnt)...
 This repository is a new way for me to share with you a selection of articles and/or books I found inspiring or have changed the vision I had of Web Development.
 
 It will always evolve and I hope its content will be as interesting for you as it was for me.
