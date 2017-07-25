@@ -10,7 +10,7 @@ I wish you an interesting reading !
 ## HTML5
 
 ## CSS3/Sass
-- [SASS Guidelines - Hugo Giraudel](https://sass-guidelin.es/)
+- [Sass Guidelines - Hugo Giraudel](https://sass-guidelin.es/)
 - [Airbnb CSS/Sass Styleguide - Airbnb](https://github.com/airbnb/css)
 
 ## Javascript/ES6
