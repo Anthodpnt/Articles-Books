@@ -11,7 +11,7 @@ I wish you an interesting reading !
 
 ## SASS/CSS3
 
-## ES6
+## Javascript/ES6
 - [ES6 Overview in 350 Bullet Points - Ponyfoo](https://ponyfoo.com/articles/es6)
 
 ## WebGL
