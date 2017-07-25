@@ -9,10 +9,13 @@ I wish you an interesting reading !
 
 ## HTML5
 
-## SASS/CSS3
+## CSS3/Sass
+- [SASS Guidelines - Hugo Giraudel](https://sass-guidelin.es/)
+- [Airbnb CSS/Sass Styleguide - Airbnb](https://github.com/airbnb/css)
 
 ## Javascript/ES6
 - [ES6 Overview in 350 Bullet Points - Ponyfoo](https://ponyfoo.com/articles/es6)
+- [Airbnb Javascript Styleguide - Airbnb](https://github.com/airbnb/javascript)
 
 ## WebGL
 - [Into Vertex Shaders - Szenia Zadvornykh](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
