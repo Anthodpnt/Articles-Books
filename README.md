@@ -22,6 +22,9 @@ I wish you an interesting reading !
 - [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 - [WebGL Fundamentals - Greggman](https://webglfundamentals.org/)
 
+## Workflow
+- [Mira: Exploring the Potential of The Future Web - Active Theory](https://medium.com/@activetheory/mira-exploring-the-potential-of-the-future-web-e1f7f326d58e)
+
 ## Case Studies
 
 - [A World With No Hereos - Make Me Pulse](https://m.makemepulse.com/a-world-with-no-heroes-79cfafbc7c7)
