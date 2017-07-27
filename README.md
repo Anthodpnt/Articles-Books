@@ -22,9 +22,6 @@ I wish you an interesting reading !
 - [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 - [WebGL Fundamentals - Greggman](https://webglfundamentals.org/)
 
-## Workflow
-- [Mira: Exploring the Potential of The Future Web - Active Theory](https://medium.com/@activetheory/mira-exploring-the-potential-of-the-future-web-e1f7f326d58e)
-
 ## Case Studies
 
 - [A World With No Hereos - Make Me Pulse](https://m.makemepulse.com/a-world-with-no-heroes-79cfafbc7c7)
@@ -32,6 +29,7 @@ I wish you an interesting reading !
 - [For Honor Scars - Make Me Pulse](https://m.makemepulse.com/behind-the-scenes-of-for-honor-scars-cbb800c6e05f)
 - [Through The Dark - R/GA Sydney](https://medium.com/@hamishstewart/through-the-dark-a-creative-technical-and-emotional-journey-daffecea1744)
 - [Cavalier: Conqueror of Excellence - Your Majesty Co](https://medium.com/your-majesty-co/behind-the-tech-of-cavalier-conqueror-of-excellence-29f64330afa9)
+- [Mira: Exploring the Potential of The Future Web - Active Theory](https://medium.com/@activetheory/mira-exploring-the-potential-of-the-future-web-e1f7f326d58e)
 
 ## License
 
