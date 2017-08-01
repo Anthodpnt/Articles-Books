@@ -13,6 +13,7 @@ I wish you an interesting reading !
 ## CSS3/Sass
 - [Sass Guidelines - Hugo Giraudel](https://sass-guidelin.es/)
 - [Airbnb CSS/Sass Styleguide - Airbnb](https://github.com/airbnb/css)
+- [The Extend Concept - CSS Tricks](https://css-tricks.com/the-extend-concept/)
 
 ## Javascript/ES6
 - [ES6 Overview in 350 Bullet Points - Ponyfoo](https://ponyfoo.com/articles/es6)
