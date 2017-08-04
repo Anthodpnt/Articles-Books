@@ -34,6 +34,7 @@ I wish you an interesting reading !
 - [Mira: Exploring the Potential of The Future Web - Active Theory](https://medium.com/@activetheory/mira-exploring-the-potential-of-the-future-web-e1f7f326d58e)
 - [AR Experiments - Active Theory](https://medium.com/@activetheory/ar-experiments-66ba1b4ed931)
 - [MountainDew x TitanFall Technical Review - Firstborn](https://medium.com/@VilledieuMorgan/mountaindew-x-titanfall-technical-review-35f1be4089c)
+- [Wind Waker Graphics Analysis - Nathan Gordon](https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127)
 
 ## License
 
