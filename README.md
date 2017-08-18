@@ -18,6 +18,7 @@ I wish you an interesting reading !
 ## Javascript/ES6
 - [ES6 Overview in 350 Bullet Points - Ponyfoo](https://ponyfoo.com/articles/es6)
 - [Airbnb Javascript Styleguide - Airbnb](https://github.com/airbnb/javascript)
+- [Using ES2017 Async Function - CSS Tricks](https://css-tricks.com/using-es2017-async-functions/)
 
 ## WebGL
 - [Into Vertex Shaders - Szenia Zadvornykh](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
