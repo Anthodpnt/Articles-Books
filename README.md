@@ -8,7 +8,7 @@ Feel free to fork it and complete this exhaustive list with your own sources.
 I wish you an interesting reading !
 
 ## HTML5
-- [Learn HTML & CSS - Jon Duckett (Book)](http://www.htmlandcssbook.com/) **Book**
+- [Learn HTML & CSS - Jon Duckett (Book)](http://www.htmlandcssbook.com/) - **Book**
 - [Drawing DOM Objects Into a Canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Drawing_DOM_objects_into_a_canvas)
 
 ## CSS3/Sass
@@ -17,7 +17,7 @@ I wish you an interesting reading !
 - [The Extend Concept - CSS Tricks](https://css-tricks.com/the-extend-concept/)
 
 ## Javascript/ES6
-- [Learn Javascript & jQuery - Jon Duckett](http://javascriptbook.com/) **Book**
+- [Learn Javascript & jQuery - Jon Duckett](http://javascriptbook.com/) - **Book**
 - [ES6 Overview in 350 Bullet Points - Ponyfoo](https://ponyfoo.com/articles/es6)
 - [Airbnb Javascript Styleguide - Airbnb](https://github.com/airbnb/javascript)
 - [Using ES2017 Async Function - CSS Tricks](https://css-tricks.com/using-es2017-async-functions/)
