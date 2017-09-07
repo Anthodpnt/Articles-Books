@@ -8,7 +8,7 @@ Feel free to fork it and complete this exhaustive list with your own sources.
 I wish you an interesting reading !
 
 ## HTML5
-- [Learn HTML & CSS - Jon Duckett (Book)](http://www.htmlandcssbook.com/) - **Book**
+- [Learn HTML & CSS - Jon Duckett](http://www.htmlandcssbook.com/) - **Book**
 - [Drawing DOM Objects Into a Canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Drawing_DOM_objects_into_a_canvas)
 
 ## CSS3/Sass
