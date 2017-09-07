@@ -21,7 +21,7 @@ I wish you an interesting reading !
 - [Using ES2017 Async Function - CSS Tricks](https://css-tricks.com/using-es2017-async-functions/)
 - [Gain Motion Super Powers With RequestAnimationFrame - Benjamin De Cock](https://medium.com/@bdc/gain-motion-superpowers-with-requestanimationframe-ecc6d5b0d9a4)
 
-## WebGL
+## WebGL/GLSL
 - [Into Vertex Shaders - Szenia Zadvornykh](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
 - [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 - [WebGL Fundamentals - Greggman](https://webglfundamentals.org/)
