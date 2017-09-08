@@ -28,6 +28,7 @@ I wish you an interesting reading !
 - [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 - [WebGL Fundamentals - Greggman](https://webglfundamentals.org/)
 - [Domain Warping - Inigo Quilez](http://www.iquilezles.org/www/articles/warp/warp.htm)
+- [FBO Particles - Nicolas Barradeau](http://barradeau.com/blog/?p=621)
 
 ## Case Studies
 
