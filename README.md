@@ -30,6 +30,9 @@ I wish you an interesting reading !
 - [Domain Warping - Inigo Quilez](http://www.iquilezles.org/www/articles/warp/warp.htm)
 - [FBO Particles - Nicolas Barradeau](http://barradeau.com/blog/?p=621)
 
+## DevTools
+- [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
+
 ## Case Studies
 
 - [A World With No Hereos - Make Me Pulse](https://m.makemepulse.com/a-world-with-no-heroes-79cfafbc7c7)
