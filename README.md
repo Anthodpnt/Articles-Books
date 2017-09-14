@@ -27,6 +27,7 @@ I wish you an interesting reading !
 - [Into Vertex Shaders - Szenia Zadvornykh](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
 - [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
 - [WebGL Fundamentals - Greggman](https://webglfundamentals.org/)
+- [WebGL Insights - Patrick Cozzi](http://webglinsights.com/)
 - [Domain Warping - Inigo Quilez](http://www.iquilezles.org/www/articles/warp/warp.htm)
 - [FBO Particles - Nicolas Barradeau](http://barradeau.com/blog/?p=621)
 
