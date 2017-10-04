@@ -33,6 +33,9 @@ I wish you an interesting reading !
 - [Domain Warping - Inigo Quilez](http://www.iquilezles.org/www/articles/warp/warp.htm)
 - [FBO Particles - Nicolas Barradeau](http://barradeau.com/blog/?p=621)
 
+## Assets (Images, Videos, Fonts,...)
+- [Essential Image Optimization - Addy Osmani](https://images.guide/) **eBook**
+
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
 
