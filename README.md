@@ -34,7 +34,7 @@ I wish you an interesting reading !
 - [FBO Particles - Nicolas Barradeau](http://barradeau.com/blog/?p=621)
 
 ## Assets (Images, Videos, Fonts,...)
-- [Essential Image Optimization - Addy Osmani](https://images.guide/) **eBook**
+- [Essential Image Optimization - Addy Osmani](https://images.guide/) - **eBook**
 
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
