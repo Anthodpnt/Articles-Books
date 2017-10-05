@@ -50,6 +50,7 @@ I wish you an interesting reading !
 - [AR Experiments - Active Theory](https://medium.com/@activetheory/ar-experiments-66ba1b4ed931)
 - [MountainDew x TitanFall Technical Review - Firstborn](https://medium.com/@VilledieuMorgan/mountaindew-x-titanfall-technical-review-35f1be4089c)
 - [Wind Waker Graphics Analysis - Nathan Gordon](https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127)
+- [Bubbles I/O - Active Theory](https://medium.com/@activetheory/bubbles-i-o-2017-e52171516b93)
 
 ## License
 
