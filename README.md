@@ -35,6 +35,7 @@ I wish you an interesting reading !
 
 ## Assets (Images, Videos, Fonts,...)
 - [Essential Image Optimization - Addy Osmani](https://images.guide/) - **eBook**
+- [Prefetching, Preloading, Prebrowsing - CSS Tricks](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
