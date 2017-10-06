@@ -12,7 +12,7 @@ I wish you an interesting reading !
 - [HTML5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 - [The Accessibility Cheat Sheet - bitsofcode](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [ARIA in HTML - W3C](https://www.w3.org/TR/html-aria/)
-- [Global Attributes - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+- [Getting started with Microdata - Schema.org](http://schema.org/docs/gs.html)
 - [Prefetching, Preloading, Prebrowsing - CSS Tricks](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 - [Drawing DOM Objects Into a Canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Drawing_DOM_objects_into_a_canvas)
 
