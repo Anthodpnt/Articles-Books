@@ -11,6 +11,9 @@ I wish you an interesting reading !
 - [Learn HTML & CSS - Jon Duckett](http://www.htmlandcssbook.com/) - **Book**
 - [HTML5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 - [The Accessibility Cheat Sheet - bitsofcode](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [ARIA in HTML - W3C](https://www.w3.org/TR/html-aria/)
+- [Global Attributes - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+- [Prefetching, Preloading, Prebrowsing - CSS Tricks](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 - [Drawing DOM Objects Into a Canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Drawing_DOM_objects_into_a_canvas)
 
 ## CSS3/Sass
@@ -35,7 +38,6 @@ I wish you an interesting reading !
 
 ## Assets (Images, Videos, Fonts,...)
 - [Essential Image Optimization - Addy Osmani](https://images.guide/) - **eBook**
-- [Prefetching, Preloading, Prebrowsing - CSS Tricks](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
