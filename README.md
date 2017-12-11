@@ -44,6 +44,8 @@ I wish you an interesting reading !
 ## Accessibility
 - [Automating your Accessibility Tests - Seren Davies](https://24ways.org/2017/automating-your-accessibility-tests/)
 - [The Accessibility Cheat Sheet - bitsofcode](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [Accessibility Testing with pa11y - bitsofcode](https://bitsofco.de/pa11y/)
+- [Using Actions in pa11y](http://hollsk.co.uk/posts/view/using-actions-in-pa11y)
 - [Accessible Links - Maggie](https://www.filamentgroup.com/lab/a11y-links.html)
 - [Building Accessible Menu Systems - Heydon Pickering](https://www.smashingmagazine.com/2017/11/building-accessible-menu-systems/)
 
