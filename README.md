@@ -10,7 +10,6 @@ I wish you an interesting reading !
 ## HTML5
 - [Learn HTML & CSS - Jon Duckett](http://www.htmlandcssbook.com/) - **Book**
 - [HTML5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-- [The Accessibility Cheat Sheet - bitsofcode](https://bitsofco.de/the-accessibility-cheatsheet/)
 - [ARIA in HTML - W3C](https://www.w3.org/TR/html-aria/)
 - [Getting started with Microdata - Schema.org](http://schema.org/docs/gs.html)
 - [Prefetching, Preloading, Prebrowsing - CSS Tricks](https://css-tricks.com/prefetching-preloading-prebrowsing/)
@@ -41,6 +40,11 @@ I wish you an interesting reading !
 
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
+
+## Accessibility
+- [Automating your Accessibility Tests - Seren Davies](https://24ways.org/2017/automating-your-accessibility-tests/)
+- [The Accessibility Cheat Sheet - bitsofcode](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [Accessible Links - Maggie](https://www.filamentgroup.com/lab/a11y-links.html)
 
 ## Case Studies
 
