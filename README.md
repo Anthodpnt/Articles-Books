@@ -40,6 +40,7 @@ I wish you an interesting reading !
 
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
+- [Chrome DevTools Tips - Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/)
 
 ## Accessibility
 - [Automating your Accessibility Tests - Seren Davies](https://24ways.org/2017/automating-your-accessibility-tests/)
