@@ -19,6 +19,7 @@ I wish you an interesting reading !
 - [Sass Guidelines - Hugo Giraudel](https://sass-guidelin.es/)
 - [Airbnb CSS/Sass Styleguide - Airbnb](https://github.com/airbnb/css)
 - [The Extend Concept - CSS Tricks](https://css-tricks.com/the-extend-concept/)
+- [Overriding Default Button Styles - CSS Tricks](https://css-tricks.com/overriding-default-button-styles/)
 
 ## Javascript/ES6
 - [Learn Javascript & jQuery - Jon Duckett](http://javascriptbook.com/) - **Book**
@@ -41,6 +42,7 @@ I wish you an interesting reading !
 ## DevTools
 - [150 Animated Tips on Chrome DevTools - Umar Hansa](https://umaar.com/dev-tips/)
 - [Chrome DevTools Tips - Flavio Copes](https://flaviocopes.com/chrome-devtools-tips/)
+- [Modern Web Development - Flavio Copes](https://gumroad.com/l/FKbd/50off) - **eBook**
 
 ## Accessibility
 - [Automating your Accessibility Tests - Seren Davies](https://24ways.org/2017/automating-your-accessibility-tests/)
