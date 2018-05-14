@@ -21,6 +21,7 @@ I wish you an interesting reading !
 - [The Extend Concept - CSS Tricks](https://css-tricks.com/the-extend-concept/)
 - [Overriding Default Button Styles - CSS Tricks](https://css-tricks.com/overriding-default-button-styles/)
 - [Introduction to CSS 3D Transforms - David DeSandro](https://3dtransforms.desandro.com/)
+- [Solved with CSS! Dropdown Menus - CSS Tricks](https://css-tricks.com/solved-with-css-dropdown-menus/)
 
 ## Javascript/ES6
 - [Learn Javascript & jQuery - Jon Duckett](http://javascriptbook.com/) - **Book**
