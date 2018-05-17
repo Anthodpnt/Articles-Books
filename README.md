@@ -23,6 +23,7 @@ I wish you an interesting reading !
 - [Introduction to CSS 3D Transforms - David DeSandro](https://3dtransforms.desandro.com/)
 - [Solved with CSS! Dropdown Menus - CSS Tricks](https://css-tricks.com/solved-with-css-dropdown-menus/)
 - [Responsive tables, revisited - Lea Verou](http://lea.verou.me/2018/05/responsive-tables-revisited/)
+- [The backdrop-filter CSS Property - CSS Tricks](https://css-tricks.com/the-backdrop-filter-css-property/)
 
 ## Javascript/ES6
 - [Learn Javascript & jQuery - Jon Duckett](http://javascriptbook.com/) - **Book**
