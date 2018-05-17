@@ -22,6 +22,7 @@ I wish you an interesting reading !
 - [Overriding Default Button Styles - CSS Tricks](https://css-tricks.com/overriding-default-button-styles/)
 - [Introduction to CSS 3D Transforms - David DeSandro](https://3dtransforms.desandro.com/)
 - [Solved with CSS! Dropdown Menus - CSS Tricks](https://css-tricks.com/solved-with-css-dropdown-menus/)
+- [Responsive tables, revisited - Lea Verou](http://lea.verou.me/2018/05/responsive-tables-revisited/)
 
 ## Javascript/ES6
 - [Learn Javascript & jQuery - Jon Duckett](http://javascriptbook.com/) - **Book**
